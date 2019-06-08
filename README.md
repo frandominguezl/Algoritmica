@@ -2,9 +2,9 @@
 Repositorio para las prácticas de la asignatura de Algorítmica. Grado en Ingeniería Informática Curso 2018-2019 (UGR).
 
 ## Autores
-Francisco Domínguez Lorente
-Nora Itafti Rivas
-David Gómez Hernández [*@DavidGmezHdez*](https://github.com/davidgmezhdez)
+Francisco Domínguez Lorente  
+Nora Itafti Rivas  
+David Gómez Hernández [*@DavidGmezHdez*](https://github.com/davidgmezhdez)  
 Miguel Ángel Posadas Arráez [*@migue99angel*](https://github.com/migue99angel)
 
 ### [Práctica 2 - Algoritmos Divide y Vencerás](https://github.com/frandominguez03/IA/tree/master/Practica%201)
